@@ -1,0 +1,23 @@
+
+h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¿´É+8Î“ÛÛş0
+7
+java:S1220""Move this file to a named package.8Ğ“ÛÛş0
+f
+java:S2583
+"DChange this condition so that it does not always evaluate to "false"(Ğ¹á‹ıÿÿÿÿ8ê“ÛÛş0
+L
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8ğ“ÛÛş0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(èâäëúÿÿÿÿ8ò“ÛÛş0
+f
+java:S3358
+"DExtract this nested ternary operation into an independent statement.(Ğ¹á‹ıÿÿÿÿ8ø“ÛÛş0
+f
+java:S3358
+"DExtract this nested ternary operation into an independent statement.(Ğ¹á‹ıÿÿÿÿ8ø“ÛÛş0
+f
+java:S3358
+"DExtract this nested ternary operation into an independent statement.(Ğ¹á‹ıÿÿÿÿ8ø“ÛÛş0
+f
+java:S3358
+"DExtract this nested ternary operation into an independent statement.(Ğ¹á‹ıÿÿÿÿ8ù“ÛÛş0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ëıô8ù“ÛÛş0

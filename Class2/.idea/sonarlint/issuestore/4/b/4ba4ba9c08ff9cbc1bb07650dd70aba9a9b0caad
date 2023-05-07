@@ -1,0 +1,15 @@
+
+7
+java:S1220""Move this file to a named package.8Ñ×Á™ı0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(æçÌz8â×Á™ı0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(İ«áÿ8â×Á™ı0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(«ÙØşúÿÿÿÿ8â×Á™ı0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ì™«ÿÿÿÿÿ8ã×Á™ı0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¦Ò°‡ùÿÿÿÿ8ã×Á™ı0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(’ĞÁ8ã×Á™ı0
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(ëí“8ã×Á™ı0
+F
+java:S1940	")Use the opposite operator ("==") instead.(ëí“8ä×Á™ı0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(“îÉz8ä×Á™ı0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Å²œ‚8ç×Á™ı0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(·­Ö¡øÿÿÿÿ8ç×Á™ı0
