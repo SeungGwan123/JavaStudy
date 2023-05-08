@@ -1,6 +1,0 @@
-
-b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(”√Çé
-0
-java:S1220""Move this file to a named package.
-X
-java:S2094"BRemove this empty class, write its code or make it an "interface".(”√Çé
