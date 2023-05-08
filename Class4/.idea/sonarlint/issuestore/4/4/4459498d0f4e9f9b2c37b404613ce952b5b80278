@@ -1,0 +1,19 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ü”ÂÍ8àÑşÓÿ0
+7
+java:S1220""Move this file to a named package.8àÑşÓÿ0
+L
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8çÑşÓÿ0
+?
+java:S2440""Remove this instantiation of "TV".(Ş½¶Í8˜‰ˆÔÿ0
+W
+java:S2209"5Change this instance-reference to a static reference.(Ì©˜ïùÿÿÿÿ8êŸ„Ôÿ0
+:
+java:S1118"Hide this public constructor.(çñ½ê8‰ˆÔÿ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ë£…8éÑşÓÿ0
+;
+java:S3010"Remove this assignment of "a".(Ğ³¬§8¤‰ˆÔÿ0
+@
+java:S3010"Remove this assignment of "b".(Ô··¶ùÿÿÿÿ8§‰ˆÔÿ0
+@
+java:S3010"Remove this assignment of "c".(Ä€öÀúÿÿÿÿ8ª‰ˆÔÿ0

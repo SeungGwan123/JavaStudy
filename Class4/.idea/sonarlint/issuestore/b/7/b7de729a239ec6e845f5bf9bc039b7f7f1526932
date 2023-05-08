@@ -1,0 +1,18 @@
+
+r	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ“©„øÿÿÿÿ8Ä‹Úÿ0
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(İ¨ò8„Ä‹Úÿ0
+7
+java:S1220""Move this file to a named package.8†Ä‹Úÿ0
+L
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8¹Ä‹Úÿ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ƒŸ¡8½Ä‹Úÿ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(É«ˆ8ÃÄ‹Úÿ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ó¦¿Ëÿÿÿÿÿ8ÆÄ‹Úÿ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(µ¿äúşÿÿÿÿ8ÉÄ‹Úÿ0
+s
+java:S3457%"Q%n should be used in place of \n to produce the platform-specific line separator.(ªñ‡…úÿÿÿÿ8ÍÄ‹Úÿ0
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(ªñ‡…úÿÿÿÿ8ÍÄ‹Úÿ0
+j	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û ¬î8ÎÄ‹Úÿ0
+n
+java:S34576"Q%n should be used in place of \n to produce the platform-specific line separator.( Ùù8ÏÄ‹Úÿ0
+U	java:S1066"9Replace this use of System.out or System.err by a logger.( Ùù8ÏÄ‹Úÿ0

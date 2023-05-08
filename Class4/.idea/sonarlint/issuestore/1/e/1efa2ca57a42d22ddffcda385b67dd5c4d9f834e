@@ -1,0 +1,20 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Óš­‚8Ää¾Ùÿ0
+7
+java:S1220""Move this file to a named package.8Åä¾Ùÿ0
+W
+java:S1854"5Remove this useless assignment to local variable "m".(Á®˜ÿÿÿÿÿ8†å¾Ùÿ0
+L
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8†å¾Ùÿ0
+H
+java:S1481"&Remove this unused "m" local variable.(Á®˜ÿÿÿÿÿ8‡å¾Ùÿ0
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(€€¥É8‰å¾Ùÿ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Âœ›¼8Šå¾Ùÿ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ùİ–±úÿÿÿÿ8å¾Ùÿ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÖôÅÿÿÿÿÿ8å¾Ùÿ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(«ì’°8å¾Ùÿ0
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(ÖôÅÿÿÿÿÿ8å¾Ùÿ0
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(µ‘î²8å¾Ùÿ0
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(öÍô8“å¾Ùÿ0
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(îÎú‰8“å¾Ùÿ0
