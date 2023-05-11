@@ -1,0 +1,14 @@
+
+n	java:S135&"YReduce the total number of break and continue statements in this loop to use at most one.(ÎÂ²¸
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ùÚ»
+0
+java:S1220""Move this file to a named package.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ß„‚çşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ôêá“
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(Êšáª
+m	java:S116P"SRename this field "KeyArray" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¤‰Ÿùÿÿÿÿ
+E
+java:S1197P"*Move the array designators [] to the type.(ƒ¤‰Ÿùÿÿÿÿ
+E
+java:S1197Q"*Move the array designators [] to the type.(Éåâøÿÿÿÿ

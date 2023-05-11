@@ -1,0 +1,43 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£‰õ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ­œ³ûÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘èôò
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü–¦øÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òšôàıÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÙğÌ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Šš‹
+0
+java:S1220""Move this file to a named package.
+E
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+:
+java:S2440"$Remove this instantiation of "Game".(£‰õ
+P
+java:S2209"5Change this instance-reference to a static reference.(ëš÷ûøÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ôôÿû
+O
+java:S1854"9Remove this useless assignment to local variable "board".(­±ÌÔ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(îñíˆúÿÿÿÿ
+@
+java:S1481"*Remove this unused "board" local variable.(­±ÌÔ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‡¥‡Êşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(†²ğĞûÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ÉÇ±‰ùÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(¹¦Ô„ÿÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(ÄÊüš
+7	java:S1318""Add a default case to this switch.(È¨Ğ
+m
+java:S3776V"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(œ€Íùÿÿÿÿ
+4
+java:S2119W"Save and re-use this "Random".(¸Í×
+<	java:S131\""Add a default case to this switch.(Æóõµıÿÿÿÿ
+<	java:S131r""Add a default case to this switch.(Æóõµıÿÿÿÿ
+=	java:S131…""Add a default case to this switch.(Æóõµıÿÿÿÿ
+;
+java:S1659­"Declare "y" on a separate line.(ëáııøÿÿÿÿ
+U
+java:S5993®"9Change the visibility of this constructor to "protected".(ğÛğøÿÿÿÿÿ
+]
+java:S1126º"AReplace this if-then-else statement by a single return statement.(ùµĞµıÿÿÿÿ

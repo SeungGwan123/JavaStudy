@@ -1,0 +1,59 @@
+
+s	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ìÛ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Œ¿ëúÿÿÿÿ
+f	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ý¸­¢
+k	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øú…Žûÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ã•úÏûÿÿÿÿ
+.
+java:S1700f"Rename field "Line"(îæÛÇüÿÿÿÿ
+)
+java:S1700l"Rename field "Rect"(Ä„¼µ
++
+java:S1700r"Rename field "Circle"(Ò¶£º
+0
+java:S1220""Move this file to a named package.
+b
+java:S1223
+"LRename this method to prevent any misunderstanding or make it a constructor.(ëœÕý
+]
+java:S2259N"BA "NullPointerException" could be thrown; "temp" is nullable here.(±í–ôþÿÿÿÿ
+]
+java:S2259-"BA "NullPointerException" could be thrown; "tail" is nullable here.(œã©øÿÿÿÿ
+]
+java:S2259P"BA "NullPointerException" could be thrown; "temp" is nullable here.(ï…ÑÇÿÿÿÿÿ
+X
+java:S22599"BA "NullPointerException" could be thrown; "tail" is nullable here.(ù›œÇ
+]
+java:S2259 "BA "NullPointerException" could be thrown; "tail" is nullable here.(ý¯øÜýÿÿÿÿ
+X
+java:S2259I"BA "NullPointerException" could be thrown; "head" is nullable here.(£¾¶¿
+X
+java:S2259W"BA "NullPointerException" could be thrown; "temp" is nullable here.(óë» 
+E
+java:S1197"*Move the array designators [] to the type.(¡þÏÖøÿÿÿÿ
+c	java:S100
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëœÕý
+h
+java:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(ëœÕý
+N	java:S106"9Replace this use of System.out or System.err by a logger.(›ã™
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Šæø¤
+N	java:S106"9Replace this use of System.out or System.err by a logger.(šœºÏ
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(Ÿ®›óùÿÿÿÿ
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(ãÆ×ù
+S	java:S106_"9Replace this use of System.out or System.err by a logger.(ú˜ ®ûÿÿÿÿ
+i	java:S116f"ORename this field "Line" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îæÛÇüÿÿÿÿ
+S	java:S106h"9Replace this use of System.out or System.err by a logger.(²²•Áûÿÿÿÿ
+d	java:S116l"ORename this field "Rect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä„¼µ
+N	java:S106n"9Replace this use of System.out or System.err by a logger.(ú­£
+f	java:S116r"QRename this field "Circle" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò¶£º
+S	java:S106t"9Replace this use of System.out or System.err by a logger.(ÇÔ…úÿÿÿÿ
+O
+java:S5993y"9Change the visibility of this constructor to "protected".(¯™³Î
+C
+java:S1068f"(Remove this unused "Line" private field.(îæÛÇüÿÿÿÿ
+>
+java:S1068l"(Remove this unused "Rect" private field.(Ä„¼µ
+@
+java:S1068r"*Remove this unused "Circle" private field.(Ò¶£º
