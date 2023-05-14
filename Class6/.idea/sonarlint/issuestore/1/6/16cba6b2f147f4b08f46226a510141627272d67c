@@ -1,0 +1,9 @@
+
+7
+java:S1220""Move this file to a named package.8åŒØÊ1
+|
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰8¸ØÊ1
+L
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8ºØÊ1
+X	java:S125	"<This block of commented-out lines of code should be removed.(ÇÙÉÉ8—¿ÜÊ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(“õ’±úÿÿÿÿ8öÑØÊ1
