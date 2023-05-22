@@ -1,0 +1,20 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Óš­‚8Í´Å¤„1
+0
+java:S1220""Move this file to a named package.
+p
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(İ±ãÔıÿÿÿÿ8ó´Å¤„1
+o
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(œÇúÿÿÿÿ8ó´Å¤„1
+<
+java:S1659
+"Declare "b" on a separate line.(É”¬‡8ö´Å¤„1
+?
+java:S1659"#Declare "total" on a separate line.(£¦ÓH8ö´Å¤„1
+T
+java:S1135	"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8ö´Å¤„1
+T
+java:S1135	"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8ö´Å¤„1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(÷Ú¦†üÿÿÿÿ8ù´Å¤„1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Å×œÜ8ú´Å¤„1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ıÿÿÿÿ8ü´Å¤„1

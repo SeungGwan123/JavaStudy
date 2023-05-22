@@ -1,0 +1,35 @@
+
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8îÊÑ¤„1
+W
+java:S1141+"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ïÊÑ¤„1
+W
+java:S1141<"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ïÊÑ¤„1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ğ²¬í8ğÊÑ¤„1
+0
+java:S1220""Move this file to a named package.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(Çµí‘8ëÌÑ¤„1
+=
+java:S3626#"Remove this redundant jump.(ŠÒÜøÿÿÿÿ8ìÌÑ¤„1
+T
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8íÌÑ¤„1
+L
+java:S1197
+"*Move the array designators [] to the type.(àöõÂúÿÿÿÿ8íÌÑ¤„1
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ÈÍƒò8õÌÑ¤„1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‚ôĞ´8÷ÌÑ¤„1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÑÜÑ½8÷ÌÑ¤„1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ôî£“øÿÿÿÿ8ùÌÑ¤„1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ô¦–»8ùÌÑ¤„1
+B
+java:S1659*" Declare "v2" on a separate line.(¨î‡Öûÿÿÿÿ8ûÌÑ¤„1
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(˜Š¸Îıÿÿÿÿ8ıÌÑ¤„1
+^	java:S8994"=Do something with the "boolean" value returned by "renameTo".(¨¤ÿşÿÿÿÿ8ıÌÑ¤„1
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(µŞ­Ãùÿÿÿÿ8şÌÑ¤„1
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(º×œ´øÿÿÿÿ8ÿÌÑ¤„1
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(ÌÃºç8ÿÌÑ¤„1
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(÷ØâÆùÿÿÿÿ8€ÍÑ¤„1
+O
+java:S1135E"2Complete the task associated to this TODO comment.(‡ñÅ¼8€ÍÑ¤„1
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(¯³Öıÿÿÿÿ8ÍÑ¤„1

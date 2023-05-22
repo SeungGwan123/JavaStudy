@@ -1,0 +1,12 @@
+
+h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¿´É+8Ì„Á¤„1
+0
+java:S1220""Move this file to a named package.
+n
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(£ÇÇ×ÿÿÿÿÿ8Ú„Á¤„1
+T
+java:S1135	"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ8Ý„Á¤„1
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(‘Ñ°Ô8à„Á¤„1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(êÍ–´þÿÿÿÿ8ã„Á¤„1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(–ðîÊýÿÿÿÿ8ä„Á¤„1

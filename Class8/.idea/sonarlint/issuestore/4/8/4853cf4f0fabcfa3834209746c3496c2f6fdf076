@@ -1,0 +1,19 @@
+
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÎıñÂ8¼›Í¤„1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¡»ÒÍıÿÿÿÿ8¿›Í¤„1
+0
+java:S1220""Move this file to a named package.
+e
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(‰Âñ8œÍ¤„1
+b
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(óæ®…8œÍ¤„1
+‡
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ù…õÓüÿÿÿÿ8ŸœÍ¤„1
+T
+java:S1135	"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8 œÍ¤„1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(˜ïÌòÿÿÿÿÿ8¦œÍ¤„1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(…Ÿ¾ù8§œÍ¤„1
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(Œ­ÿ…8ªœÍ¤„1
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(«Äµ×şÿÿÿÿ8ªœÍ¤„1
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(ÕÆ±ã8«œÍ¤„1

@@ -1,0 +1,42 @@
+
+{
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢¯‚Æÿÿÿÿÿ8¾‹ª¤„1
+z	java:S1354"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8Æ‹ª¤„1
+r	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ê÷øÿÿÿÿ8Ê‹ª¤„1
+m	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾©¶ğ8Í‹ª¤„1
+r	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÖ²şÿÿÿÿ8Ï‹ª¤„1
+m	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä…İÛ8Ñ‹ª¤„1
+0
+java:S1220""Move this file to a named package.
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ª¤„1
+v	java:S116"URename this field "WORDS_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ş°Ïıÿÿÿÿ8 ª¤„1
+C
+java:S1170"!Make this final field static too.(°ş°Ïıÿÿÿÿ8¡ª¤„1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ıü€Ï8óª¤„1
+o
+java:S3776("RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(“–ış8ª¤„1
+@
+java:S2119)"Save and re-use this "Random".(šŸ«íøÿÿÿÿ8Œª¤„1
+@
+java:S2119*"Save and re-use this "Random".(‚ê÷øÿÿÿÿ8ª¤„1
+;
+java:S2119+"Save and re-use this "Random".(¾©¶ğ8ª¤„1
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(¹¦Ô„ÿÿÿÿÿ8œª¤„1
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(¹¦Ô„ÿÿÿÿÿ8Ÿª¤„1
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(îãËÃÿÿÿÿÿ8 ª¤„1
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8¢ª¤„1
+U	java:S106I"9Replace this use of System.out or System.err by a logger.(ô¦–»8£ª¤„1
+Z	java:S106Z"9Replace this use of System.out or System.err by a logger.(¹¦Ô„ÿÿÿÿÿ8«ª¤„1
+Z	java:S106\"9Replace this use of System.out or System.err by a logger.(îãËÃÿÿÿÿÿ8¬ª¤„1
+Z	java:S106_"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8®ª¤„1
+Z	java:S106c"9Replace this use of System.out or System.err by a logger.(¹¦Ô„ÿÿÿÿÿ8±ª¤„1
+Z	java:S106e"9Replace this use of System.out or System.err by a logger.(îãËÃÿÿÿÿÿ8²ª¤„1
+Z	java:S106h"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8´ª¤„1
+Z	java:S106t"9Replace this use of System.out or System.err by a logger.(Öı‰ûÿÿÿÿ8¸ª¤„1
+9
+java:S3626„"Remove this redundant jump.(ûÁİ…8¼ª¤„1
+Z	java:S106~"9Replace this use of System.out or System.err by a logger.(îãËÃÿÿÿÿÿ8¾ª¤„1
+[	java:S106€"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Àª¤„1
+V	java:S106"9Replace this use of System.out or System.err by a logger.(Õò÷8Áª¤„1
+V	java:S106†"9Replace this use of System.out or System.err by a logger.(«âÂ»8Äª¤„1

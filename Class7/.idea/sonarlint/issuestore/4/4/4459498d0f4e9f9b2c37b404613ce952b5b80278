@@ -1,0 +1,12 @@
+
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ã•Å„8ÿ€ãØ1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ü”ÂÍ8ãØ1
+7
+java:S1220""Move this file to a named package.8ƒãØ1
+‚
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ã•Å„8ãØ1
+L
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8¡ãØ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(§ØÚ´8¢ãØ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Íèÿµ8§ãØ1

@@ -1,0 +1,28 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(†ó‚æúÿÿÿÿ8îşÆØ1
+r	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÈî‡ûÿÿÿÿ8ïşÆØ1
+7
+java:S1220""Move this file to a named package.8ğşÆØ1
+L
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8¹ÿÆØ1
+‚
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(»ÿÚ„8ºÿÆØ1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙøÈÅúÿÿÿÿ8½ÿÆØ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(×âñ¼ÿÿÿÿÿ8¾ÿÆØ1
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Õû¥¦ÿÿÿÿÿ8¾ÿÆØ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Õû¥¦ÿÿÿÿÿ8¾ÿÆØ1
+;
+java:S2119!"Save and re-use this "Random".(¡Å”¦8ÂÿÆØ1
+s
+java:S3457""Q%n should be used in place of \n to produce the platform-specific line separator.(¤Ş®×øÿÿÿÿ8ÂÿÆØ1
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(¤Ş®×øÿÿÿÿ8ÂÿÆØ1
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(ª› Æøÿÿÿÿ8ÃÿÆØ1
+U	java:S106("9Replace this use of System.out or System.err by a logger.(§ÿ¨ä8ÃÿÆØ1
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(ßƒı¥8ÄÿÆØ1
+U	java:S106."9Replace this use of System.out or System.err by a logger.(‡ˆÃ†8ÅÿÆØ1
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(È±âûÿÿÿÿ8ÅÿÆØ1
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(‰×››ÿÿÿÿÿ8ÅÿÆØ1
+o	java:S100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™§îğüÿÿÿÿ8ÆÿÆØ1
+o	java:S100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸöÜœøÿÿÿÿ8ÆÿÆØ1

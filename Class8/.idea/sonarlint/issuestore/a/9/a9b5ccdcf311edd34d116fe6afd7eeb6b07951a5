@@ -1,0 +1,26 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¥ÅÇĞ8¨ÈÄ¤„1
+0
+java:S1220""Move this file to a named package.
+k
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(¸¯Çı8šÉÄ¤„1
+j
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¹‰Ï­8šÉÄ¤„1
+o
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(´æÈ§şÿÿÿÿ8šÉÄ¤„1
+B
+java:S1659" Declare "f2" on a separate line.(ÖŸøãúÿÿÿÿ8ÉÄ¤„1
+=
+java:S1659" Declare "s2" on a separate line.(»ùôÕ8ÉÄ¤„1
+T
+java:S1135
+"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8ÉÄ¤„1
+T
+java:S1135
+"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8ÉÄ¤„1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ô£ş»ùÿÿÿÿ8¢ÉÄ¤„1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ò¢†”8¢ÉÄ¤„1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¿ÉÛúÿÿÿÿ8¢ÉÄ¤„1
+G
+java:S1197"*Move the array designators [] to the type.(Ñóğü8²ÉÄ¤„1
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(çº±¹úÿÿÿÿ8³ÉÄ¤„1

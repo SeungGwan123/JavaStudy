@@ -1,0 +1,20 @@
+
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8ÔãÏ¤„1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¨²¹¬ûÿÿÿÿ8ÕãÏ¤„1
+0
+java:S1220""Move this file to a named package.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Çµí‘8óäÏ¤„1
+=
+java:S3626"Remove this redundant jump.(ŠÒÜøÿÿÿÿ8ôäÏ¤„1
+T
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8ôäÏ¤„1
+L
+java:S1197	"*Move the array designators [] to the type.(àöõÂúÿÿÿÿ8ôäÏ¤„1
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ÈÍƒò8øäÏ¤„1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‚ôĞ´8ùäÏ¤„1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÑÜÑ½8ùäÏ¤„1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ôî£“øÿÿÿÿ8úäÏ¤„1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ô¦–»8ûäÏ¤„1
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(¯³Öıÿÿÿÿ8üäÏ¤„1

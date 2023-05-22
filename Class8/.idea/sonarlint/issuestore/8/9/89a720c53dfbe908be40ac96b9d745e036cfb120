@@ -1,0 +1,22 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(é…ÿÿÿÿÿ8µ®Ì¤„1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ùÚ»8·®Ì¤„1
+0
+java:S1220""Move this file to a named package.
+e
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(Ú÷Œš8â®Ì¤„1
+b
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(óæ®…8â®Ì¤„1
+T
+java:S1135	"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8æ®Ì¤„1
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(õŒàµÿÿÿÿÿ8ø®Ì¤„1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(æ¶ÿÿÿÿÿ8ÿ®Ì¤„1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(—Ûëúşÿÿÿÿ8¯Ì¤„1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ó£Ö·şÿÿÿÿ8‚¯Ì¤„1
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(ì­øúÿÿÿÿ8‚¯Ì¤„1
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(Ùß»ùıÿÿÿÿ8ƒ¯Ì¤„1
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(ßÙ²ôıÿÿÿÿ8ƒ¯Ì¤„1
+O
+java:S1135."2Complete the task associated to this TODO comment.(‡ñÅ¼8„¯Ì¤„1
